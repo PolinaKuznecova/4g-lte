@@ -1,1 +1,2 @@
 # 4g-lte
+In telecommunications, Long-Term Evolution (LTE) is a standard for wireless broadband communication for mobile devices and data terminals, based on the GSM/EDGE and UMTS/HSPA standards. It improves on those standards' capacity and speed by using a different radio interface and core network improvements. LTE is the upgrade path for carriers with both GSM/UMTS networks and CDMA2000 networks. Because LTE frequencies and bands differ from country to country, only multi-band phones can use LTE in all countries where it is supported.
