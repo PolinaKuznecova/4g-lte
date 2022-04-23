@@ -1,0 +1,13 @@
+d = {1: {1: {80, 75, 46, 2: 140}, 2: {1: 400}}
+
+def listGastos(dm):
+    for mes in dm:
+        totalmes = 0
+        maxconsumomes = 0
+        diamax = 0
+        print("MES: ", mes)
+        for dia in dm[mes]:
+            print("DIA:", dia)
+            for va in dm[mes][dia]:
+                print("El amount is", va)
+                totalmes + = va
